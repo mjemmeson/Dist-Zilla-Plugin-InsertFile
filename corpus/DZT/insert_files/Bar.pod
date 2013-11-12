@@ -1,0 +1,4 @@
+=head1 BAR
+
+Sample POD to insert into file
+

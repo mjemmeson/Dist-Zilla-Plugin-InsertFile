@@ -1,0 +1,4 @@
+=head1 FOO
+
+Sample POD to insert into file
+
